@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "vacuum-map-parser-base"
 # The version is set by GH action on release
-version = "0.0.0"
+version = "0.1.3"
 license = "Apache-2.0"
 description = "Common code for vacuum map parsers"
 readme = "README.md"
